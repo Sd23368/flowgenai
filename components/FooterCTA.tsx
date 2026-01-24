@@ -102,7 +102,7 @@ const FooterCTA: React.FC = () => {
                 <Mail className="w-4 h-4 text-primary" /> contact@flowgenix.in
               </li>
               <li className="flex items-center gap-2">
-                <Phone className="w-4 h-4 text-primary" /> sam@flowgenix.in
+                <Mail className="w-4 h-4 text-primary" /> sam@flowgenix.in
               </li>
               <li className="flex items-center gap-2 leading-tight">
                 <MapPin className="w-4 h-4 text-primary" /> Palo Alto, CA
