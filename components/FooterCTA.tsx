@@ -70,9 +70,9 @@ const FooterCTA: React.FC = () => {
               Empowering service businesses with frontier AI infrastructure.
             </p>
             <div className="flex gap-4">
-              <Twitter className="w-5 h-5 text-slate-400 hover:text-primary cursor-pointer transition-colors" />
+              <Instagram className="w-5 h-5 text-slate-400 hover:text-primary cursor-pointer transition-colors" />
               <Linkedin className="w-5 h-5 text-slate-400 hover:text-primary cursor-pointer transition-colors" />
-              <Github className="w-5 h-5 text-slate-400 hover:text-primary cursor-pointer transition-colors" />
+              <Youtube className="w-5 h-5 text-slate-400 hover:text-primary cursor-pointer transition-colors" />
             </div>
           </div>
 
